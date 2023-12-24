@@ -3,3 +3,5 @@ pytest
 black
 wikipedia
 ipython 
+fire
+click
