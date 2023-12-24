@@ -5,3 +5,8 @@ wikipedia
 ipython 
 fire
 click
+fastapi
+uvicorn[stadard]
+mlflow
+pandas
+pydantic
